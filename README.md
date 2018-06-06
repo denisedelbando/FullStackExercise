@@ -8,7 +8,7 @@
 
 ## Preface
 
-This personal project is to test out all backend and frontend technologies
+This personal project is to test out most known backend and frontend technologies
 
 * FrontEnd
     * Angular5 (using typescript)
