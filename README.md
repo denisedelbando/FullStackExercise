@@ -18,7 +18,7 @@ This personal project is to test out all backend and frontend technologies
     * .Net Core
     * PHP
     * Java 
-    * Express
+    * Node.JS + Express
 
 ### File Structure
 
