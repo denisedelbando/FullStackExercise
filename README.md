@@ -16,9 +16,9 @@ This personal project is to test out most known backend and frontend technologie
 
 * BackEnd
     * .Net Core
-    * PHP
     * Java 
     * Node.JS + Express
+    * Python
 
 ### File Structure
 
